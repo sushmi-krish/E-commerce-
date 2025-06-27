@@ -50,6 +50,9 @@ npm run deploy
 -----
 
 ## Live Demo
+
+https://sushmi-krish.github.io/E-commerce-/
+
 -----
  ### Learning Objectives
  - Integrate Redux Toolkit with React
